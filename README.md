@@ -1,3 +1,3 @@
-ant_android
+ant_cashier_android
 ===========
-android版本
+商户职能收银台android版本
